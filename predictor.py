@@ -8,8 +8,8 @@ init()
 
 
 # Set the API key
-#set API_KEY=AIzaSyBw9SjE2EFS_-cFUIR6bXCTbQ5LD9_QZYk
-API_KEY = "AIzaSyBw9SjE2EFS_-cFUIR6bXCTbQ5LD9_QZYk"
+
+API_KEY = "YOUR_API_KEY_HERE"
 if not API_KEY:
   raise ValueError("Api key not found!")
 
